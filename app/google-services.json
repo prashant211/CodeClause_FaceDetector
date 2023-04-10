@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194746389700",
+    "project_id": "my-application-2f28a",
+    "storage_bucket": "my-application-2f28a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194746389700:android:1992ded3b7f2a1576f6591",
+        "android_client_info": {
+          "package_name": "com.prashant.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194746389700-koo3vd6umejklgvvi3dp9jr3gimq52ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGC2pZQ2Lu1QIc7wt487fhk1MmX9AyccU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194746389700-koo3vd6umejklgvvi3dp9jr3gimq52ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
